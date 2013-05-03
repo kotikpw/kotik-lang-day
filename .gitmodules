@@ -1,0 +1,3 @@
+[submodule "lua-talk"]
+	path = lua-talk
+	url = git://github.com/zapu/lua-talk.git
